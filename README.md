@@ -6,3 +6,4 @@ http://www.audioinjector.net/rpi-zero
 Get KiCad to open the design : https://kicad-pcb.org/
 
 ![Audio Injector Zero sound card image](http://www.audioinjector.net/images/PPI.zero.jpg)
+![Audio Injector Zero sound card image](https://github.com/Audio-Injector/AudioInjector.zero.template/blob/master/AI.zero.template.png?raw=true)
